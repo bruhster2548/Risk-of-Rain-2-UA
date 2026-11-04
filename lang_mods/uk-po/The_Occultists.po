@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-22 10:18+0000\n"
-"PO-Revision-Date: 2026-09-22 13:17+0300\n"
+"POT-Creation-Date: 2026-11-04 16:15+0000\n"
+"PO-Revision-Date: 2026-11-04 18:16+0200\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -42,3 +42,7 @@ msgstr "Хранитель Присяги"
 #: .strings.DRAGONROILZ_SKIN_VINDICTARGDEF_NAME
 msgid "Vindicated"
 msgstr "Мстива"
+
+#: .strings.DRAGONROILZ_SKIN_VICTORFIENDDEF_NAME
+msgid "Reanimation"
+msgstr "Реанімація"
