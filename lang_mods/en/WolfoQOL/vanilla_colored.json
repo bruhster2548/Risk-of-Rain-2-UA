@@ -1,4 +1,4 @@
-//Optional to translate
+//Takes vanilla already translated objectives and just adds a bit of color.
 //Just adds colors to objectives/chat lines nothing more
 {
 	"strings":
@@ -20,11 +20,8 @@
 			"OBJECTIVE_MERIDIAN_REACH_ARENA": "Ascend to the <style=cRebirth>Prime Meridian</color>",
 		
 	
-			"OBJECTIVE_SOLUSWING_ESCAPE": "Escape through the <color=#c6d5ff>Mainline Portal</color>!",
-			"//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILL": "<color=#c6d5ff>REJECT:</color> Extinguish \nSolus Heart.",
-			"//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILLOBJECTIVE_SOLUSHEART_SPARE": "<color=#F8B651>ACCEPT:</color> Decompile & evolve.",
-			
-			
+			"OBJECTIVE_SOLUSWING_ESCAPE": "Escape through the <color=#99D9FF>Mainline Portal</color>!",
+		
 			"CONDUITCANYON_P1" : "Install <color=#F8B651>Sentry Keys</color> to hack the barrier",
 			"CONDUITCANYON_P2" : "Install <color=#F8B651>Sentry Keys</color> to reprogram encrypted teleporter",
 			 
@@ -33,5 +30,17 @@
 			"ACCESSCODES_SOLUS_FIGHT_DEFEATED": "<style=cWorldEvent>Collective enemy identified. Integrating analytics...</style>",
 
 			
+			"PORTAL_CHAMP_RUSH_OBJECTIVE": "Proceed through the <style=cHumanObjective>Ritual Portal</color>",
+			"OBJECTIVE_CHAMPRUSH_EXIT1": "Return to the <style=cHumanObjective>Mortal Plane</color>",
+			"OBJECTIVE_CHAMPRUSH_EXIT2": "Return to the <style=cHumanObjective>Mortal Plane</color> or...",
+			"OBJECTIVE_WAKE_DEFENDTOWERS": "Defend the <style=cHumanObjective>Soul Conduits</color> ({0}%)",
+        
+			
 	}
 }
+//AC Color: 99D9FF
+//Wake
+//Alive Portal: F7A2AA
+//Mortal Portal: #FFFF57
+//Trial Portal: #C8F30D
+

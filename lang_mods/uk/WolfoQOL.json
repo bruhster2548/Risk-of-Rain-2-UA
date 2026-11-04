@@ -1,6 +1,5 @@
 {
   "strings": {
-    "CHEF_BOOSTED_FORMAT__F": "Підсилена {0}",
     "CHEF_BOOSTED_FORMAT__N": "Підсилене {0}",
     "VOIDFIEND_BOOSTED_FORMAT__F": "『За??ражена】{0}",
     "VOIDFIEND_BOOSTED_FORMAT__N": "『За??ражене】{0}",
@@ -20,9 +19,6 @@
     "OBJECTIVE_REBIRTH_OUTRO_SHRINE_1": "Підійти до <style=cRebirth>святилища</color>",
     "OBJECTIVE_REBIRTH_OUTRO_SHRINE_2": "<style=cRebirth>Переродитись</color> або продовжити",
     "OBJECTIVE_MERIDIAN_REACH_ARENA": "Здійнятись на <style=cRebirth>Верховний Меридіан</color>",
-    "OBJECTIVE_SOLUSWING_ESCAPE": "Вийдіть крізь <color=#c6d5ff>магістральний портал</color>!",
-    "//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILL": "<color=#c6d5ff>ВІДХИЛИТИ:</color> Згасити \nСерце Солуса.",
-    "//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILLOBJECTIVE_SOLUSHEART_SPARE": "<color=#F8B651>ПРИЙНЯТИ:</color> Декомпілюватись\nта еволюціонувати.",
     "CONDUITCANYON_P1": "Встановіть <color=#F8B651>Охоронні ключі</color> у термінали аби опустити бар'єр",
     "CONDUITCANYON_P2": "Встановіть <color=#F8B651>Охоронні ключі</color> аби перепрограмувати зашифрований телепортатор",
     "ACCESSCODES_PORTAL_WILL_OPEN": "<style=cWorldEvent>Доступ надано...</style>",
@@ -141,8 +137,6 @@
     "PURCHASE_DRONE": "<style=cEvent>{0} придбали {1}{2}</color>",
     "UPGRADE_DRONE_2P": "<style=cEvent>Ви покращили {1} до {2}го рівня</color>",
     "UPGRADE_DRONE": "<style=cEvent>{0} покращили {1} до {2}го рівня</color>",
-    "UPGRADE_DRONE_ITEM_2P": "<style=cEvent>Ви комбінували дронів у {1}</color>",
-    "UPGRADE_DRONE_ITEM": "<style=cEvent>{0} об'єднали дронів у {1}</color>",
     "REMOTEOP_DRONE_2P": "<style=cEvent>Ви розпочали дистанційно керувати {1}</color>",
     "REMOTEOP_DRONE": "<style=cEvent>{0} розпочали дистанційно керувати {1}</color>",
     "MEALPREP_COOKMEAL_2P": "<style=cEvent>Ви приготували {1}</color>",
